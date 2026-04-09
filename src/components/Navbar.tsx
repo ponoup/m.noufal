@@ -20,7 +20,7 @@ export default function Navbar({ isDark, toggleTheme }) {
     { label: 'Get to know me⚡', href: '#about' },
     { label: 'Academic Skills🔥', href: '#skills' },
     { label: 'favorite songs🎵', href: '#projects' },
-    { label: 'Get in Touch', href: 'https://wa.me/6285373819128' },
+    { label: 'Get in Touch', href: 'https://wa.me/628995284143' },
   ];
 
   const scrollToSection = (href) => {
