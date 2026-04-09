@@ -25,13 +25,13 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Telepon',
-    value: '+62 812 3456 7890',
-    href: 'tel:+6281234567890',
+    value: '+62 899 5284 143',
+    href: 'tel:+628995284143',
   },
   {
     icon: MapPin,
     label: 'Lokasi',
-    value: 'Jakarta, Indonesia',
+    value: 'Banda Aceh, Indonesia',
     href: '#',
   },
 ];
