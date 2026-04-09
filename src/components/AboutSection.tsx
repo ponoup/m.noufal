@@ -4,10 +4,10 @@ import myPhoto from '../picture/foto.jpeg';
 
 export default function AboutSection() {
   const stats = [
-    { icon: Code2, value: '50+', label: 'Projects Selesai' },
-    { icon: Video, value: '100+', label: 'Video Konten' },
-    { icon: Coffee, value: '1000+', label: 'Cangkir Kopi' },
-    { icon: Rocket, value: '5+', label: 'Tahun Pengalaman' },
+    { icon: Code2, value: '20+', label: 'Game yang di maeinkan' },
+    { icon: Video, value: '50+', label: 'Film yg di tonton' },
+    { icon: Coffee, value: '200+', label: 'Gelas Teh' },
+    { icon: Rocket, value: '100+', label: 'Tahun Pengalaman' },
   ];
 
   return (
